@@ -13,3 +13,5 @@ def shell_sort(lst: list) -> list:
  
     print('Кол-во операций (Шелл): ', operations_count)
     return lst
+
+shell_sort(lst)
