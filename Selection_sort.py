@@ -10,3 +10,5 @@ def selection_sort(lst: list) -> list:
  
     print('Кол-во операций (выбором): ', operations_count)
     return lst
+
+selection_sort(lst)
