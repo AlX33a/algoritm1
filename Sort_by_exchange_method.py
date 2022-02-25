@@ -8,3 +8,5 @@ def bubble_sort(lst: list) -> list:
             operations_count += 1
     print('Кол-во операций (обменом): ', operations_count)
     return lst
+
+bubble_sort(lst)
